@@ -1,4 +1,4 @@
-# RefeicaoAleatoria
+# Refeição Aleatoria
 Ideia pega [daqui](https://github.com/florinpop17/app-ideas).
 
 ## Descrição
