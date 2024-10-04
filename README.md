@@ -8,6 +8,3 @@ Gere uma refeição aleatória a partir de uma API.
  - [x] O usuário pode clicar em um botão que obterá uma refeição aleatória de uma API externa.
  - [x] O aplicativo deverá exibir: Nome da receita, Ingredientes, Instruções e uma foto da refeição.
  - [x] Ao clicar novamente no botão será gerada outra refeição.
-
-## Itens bônus
- - [x] O app deve rodar um video do Youtube.
